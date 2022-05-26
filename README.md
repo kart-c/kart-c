@@ -1,10 +1,11 @@
-### Hi 👋 I am Kartik! 
+# Hi 👋 I am Kartik! 
 
-#### I am a front-end web developer.
+- 🌎 I am from Pune, India. 
+- ✍ I am currently learning web development at [neoGcamp](https://neog.camp/)
 
 --- 
 
-#### Skills 
+## Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -15,7 +16,12 @@
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 </p>
 
-#### Connect with me 
+## Read my latest blogs
+- [What exactly is the `useRef` hook in React?](https://kartik-choudhary.hashnode.dev/what-exactly-is-the-useref-hook-in-react)
+- [A beginner's guide to Functional Programming in Javascript](https://kartik-choudhary.hashnode.dev/a-beginners-guide-to-functional-programming-in-javascript)
+- [Pure Functions in Javascript](https://kartik-choudhary.hashnode.dev/pure-functions-in-javascript)
+
+## Connect with me 
 <p align="left"> <a href="https://kartik-choudhary.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kartikeya-choudhary/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kart_c11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 <!--
