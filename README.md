@@ -1,7 +1,8 @@
 # Hi 👋 I am Kartik! 
 
 - 🌎 I am from Pune, India. 
-- ✍ I am currently learning web development at [neoGcamp](https://neog.camp/)
+- ✍ I am learning web development.
+- 📧 You can contact me at [kartikeyachoudhary11@gmail.com](mailto: kartikeyachoudhary11@gmail.com) 
 
 --- 
 
