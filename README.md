@@ -2,7 +2,7 @@
 
 - 🌎 I am from Pune, India. 
 - ✍ I am learning web development.
-- 📧 You can contact me at [kartikeyachoudhary11@gmail.com](mailto: kartikeyachoudhary11@gmail.com) 
+- 📧 You can contact me at [kartikeyachoudhary11@gmail.com](mailto:kartikeyachoudhary11@gmail.com) 
 
 --- 
 
