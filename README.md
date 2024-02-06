@@ -1,6 +1,6 @@
 # Hi 👋 I am Kartik! 
 
-- 🌎 I am a Software Developer from Pune, India. 
+- 🌎 I am a Software Engineer from Pune, India. 
 - 📧 You can contact me at [kartikeyachoudhary11@gmail.com](mailto:kartikeyachoudhary11@gmail.com) 
 
 --- 
